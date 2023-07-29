@@ -20,6 +20,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
+This repository was created following this tutorial: [Learn how to build Prismic websites with the App Router](https://prismic.io/blog/how-to-use-prismic-with-nextjs-app-router)
+
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
